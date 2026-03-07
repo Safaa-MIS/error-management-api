@@ -1,0 +1,15 @@
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Auth\ErrorManagement.Auth.Application\bin\Debug\net10.0\ErrorManagement.Auth.Application.deps.json
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Auth\ErrorManagement.Auth.Application\bin\Debug\net10.0\ErrorManagement.Auth.Application.dll
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Auth\ErrorManagement.Auth.Application\bin\Debug\net10.0\ErrorManagement.Auth.Application.pdb
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Auth\ErrorManagement.Auth.Application\bin\Debug\net10.0\ErrorManagement.Shared.dll
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Auth\ErrorManagement.Auth.Application\bin\Debug\net10.0\ErrorManagement.Shared.pdb
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Auth\ErrorManagement.Auth.Application\obj\Debug\net10.0\ErrorManagement.Auth.Application.csproj.AssemblyReference.cache
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Auth\ErrorManagement.Auth.Application\obj\Debug\net10.0\ErrorManagement.Auth.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Auth\ErrorManagement.Auth.Application\obj\Debug\net10.0\ErrorManagement.Auth.Application.AssemblyInfoInputs.cache
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Auth\ErrorManagement.Auth.Application\obj\Debug\net10.0\ErrorManagement.Auth.Application.AssemblyInfo.cs
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Auth\ErrorManagement.Auth.Application\obj\Debug\net10.0\ErrorManagement.Auth.Application.csproj.CoreCompileInputs.cache
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Auth\ErrorManagement.Auth.Application\obj\Debug\net10.0\ErrorMan.D962C4DB.Up2Date
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Auth\ErrorManagement.Auth.Application\obj\Debug\net10.0\ErrorManagement.Auth.Application.dll
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Auth\ErrorManagement.Auth.Application\obj\Debug\net10.0\refint\ErrorManagement.Auth.Application.dll
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Auth\ErrorManagement.Auth.Application\obj\Debug\net10.0\ErrorManagement.Auth.Application.pdb
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Auth\ErrorManagement.Auth.Application\obj\Debug\net10.0\ref\ErrorManagement.Auth.Application.dll

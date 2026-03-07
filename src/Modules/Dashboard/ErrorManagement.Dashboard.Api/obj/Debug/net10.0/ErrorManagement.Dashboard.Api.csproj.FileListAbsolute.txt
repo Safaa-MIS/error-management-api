@@ -1,0 +1,17 @@
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Dashboard\ErrorManagement.Dashboard.Api\bin\Debug\net10.0\ErrorManagement.Dashboard.Api.deps.json
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Dashboard\ErrorManagement.Dashboard.Api\bin\Debug\net10.0\ErrorManagement.Dashboard.Api.dll
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Dashboard\ErrorManagement.Dashboard.Api\bin\Debug\net10.0\ErrorManagement.Dashboard.Api.pdb
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Dashboard\ErrorManagement.Dashboard.Api\bin\Debug\net10.0\ErrorManagement.Dashboard.Application.dll
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Dashboard\ErrorManagement.Dashboard.Api\bin\Debug\net10.0\ErrorManagement.Shared.dll
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Dashboard\ErrorManagement.Dashboard.Api\bin\Debug\net10.0\ErrorManagement.Dashboard.Application.pdb
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Dashboard\ErrorManagement.Dashboard.Api\bin\Debug\net10.0\ErrorManagement.Shared.pdb
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Dashboard\ErrorManagement.Dashboard.Api\obj\Debug\net10.0\ErrorManagement.Dashboard.Api.csproj.AssemblyReference.cache
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Dashboard\ErrorManagement.Dashboard.Api\obj\Debug\net10.0\ErrorManagement.Dashboard.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Dashboard\ErrorManagement.Dashboard.Api\obj\Debug\net10.0\ErrorManagement.Dashboard.Api.AssemblyInfoInputs.cache
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Dashboard\ErrorManagement.Dashboard.Api\obj\Debug\net10.0\ErrorManagement.Dashboard.Api.AssemblyInfo.cs
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Dashboard\ErrorManagement.Dashboard.Api\obj\Debug\net10.0\ErrorManagement.Dashboard.Api.csproj.CoreCompileInputs.cache
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Dashboard\ErrorManagement.Dashboard.Api\obj\Debug\net10.0\ErrorMan.FA0911F1.Up2Date
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Dashboard\ErrorManagement.Dashboard.Api\obj\Debug\net10.0\ErrorManagement.Dashboard.Api.dll
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Dashboard\ErrorManagement.Dashboard.Api\obj\Debug\net10.0\refint\ErrorManagement.Dashboard.Api.dll
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Dashboard\ErrorManagement.Dashboard.Api\obj\Debug\net10.0\ErrorManagement.Dashboard.Api.pdb
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Dashboard\ErrorManagement.Dashboard.Api\obj\Debug\net10.0\ref\ErrorManagement.Dashboard.Api.dll

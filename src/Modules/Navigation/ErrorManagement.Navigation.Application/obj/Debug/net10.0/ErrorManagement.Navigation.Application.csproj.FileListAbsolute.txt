@@ -1,0 +1,15 @@
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Navigation\ErrorManagement.Navigation.Application\bin\Debug\net10.0\ErrorManagement.Navigation.Application.deps.json
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Navigation\ErrorManagement.Navigation.Application\bin\Debug\net10.0\ErrorManagement.Navigation.Application.dll
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Navigation\ErrorManagement.Navigation.Application\bin\Debug\net10.0\ErrorManagement.Navigation.Application.pdb
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Navigation\ErrorManagement.Navigation.Application\bin\Debug\net10.0\ErrorManagement.Shared.dll
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Navigation\ErrorManagement.Navigation.Application\bin\Debug\net10.0\ErrorManagement.Shared.pdb
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Navigation\ErrorManagement.Navigation.Application\obj\Debug\net10.0\ErrorManagement.Navigation.Application.csproj.AssemblyReference.cache
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Navigation\ErrorManagement.Navigation.Application\obj\Debug\net10.0\ErrorManagement.Navigation.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Navigation\ErrorManagement.Navigation.Application\obj\Debug\net10.0\ErrorManagement.Navigation.Application.AssemblyInfoInputs.cache
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Navigation\ErrorManagement.Navigation.Application\obj\Debug\net10.0\ErrorManagement.Navigation.Application.AssemblyInfo.cs
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Navigation\ErrorManagement.Navigation.Application\obj\Debug\net10.0\ErrorManagement.Navigation.Application.csproj.CoreCompileInputs.cache
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Navigation\ErrorManagement.Navigation.Application\obj\Debug\net10.0\ErrorMan.62E3A738.Up2Date
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Navigation\ErrorManagement.Navigation.Application\obj\Debug\net10.0\ErrorManagement.Navigation.Application.dll
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Navigation\ErrorManagement.Navigation.Application\obj\Debug\net10.0\refint\ErrorManagement.Navigation.Application.dll
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Navigation\ErrorManagement.Navigation.Application\obj\Debug\net10.0\ErrorManagement.Navigation.Application.pdb
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Navigation\ErrorManagement.Navigation.Application\obj\Debug\net10.0\ref\ErrorManagement.Navigation.Application.dll

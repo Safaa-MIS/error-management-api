@@ -1,0 +1,17 @@
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\ClinicalAttachment\ErrorManagement.ClinicalAttachment.Api\bin\Debug\net10.0\ErrorManagement.ClinicalAttachment.Api.deps.json
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\ClinicalAttachment\ErrorManagement.ClinicalAttachment.Api\bin\Debug\net10.0\ErrorManagement.ClinicalAttachment.Api.dll
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\ClinicalAttachment\ErrorManagement.ClinicalAttachment.Api\bin\Debug\net10.0\ErrorManagement.ClinicalAttachment.Api.pdb
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\ClinicalAttachment\ErrorManagement.ClinicalAttachment.Api\bin\Debug\net10.0\ErrorManagement.ClinicalAttachment.Application.dll
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\ClinicalAttachment\ErrorManagement.ClinicalAttachment.Api\bin\Debug\net10.0\ErrorManagement.Shared.dll
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\ClinicalAttachment\ErrorManagement.ClinicalAttachment.Api\bin\Debug\net10.0\ErrorManagement.ClinicalAttachment.Application.pdb
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\ClinicalAttachment\ErrorManagement.ClinicalAttachment.Api\bin\Debug\net10.0\ErrorManagement.Shared.pdb
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\ClinicalAttachment\ErrorManagement.ClinicalAttachment.Api\obj\Debug\net10.0\ErrorManagement.ClinicalAttachment.Api.csproj.AssemblyReference.cache
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\ClinicalAttachment\ErrorManagement.ClinicalAttachment.Api\obj\Debug\net10.0\ErrorManagement.ClinicalAttachment.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\ClinicalAttachment\ErrorManagement.ClinicalAttachment.Api\obj\Debug\net10.0\ErrorManagement.ClinicalAttachment.Api.AssemblyInfoInputs.cache
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\ClinicalAttachment\ErrorManagement.ClinicalAttachment.Api\obj\Debug\net10.0\ErrorManagement.ClinicalAttachment.Api.AssemblyInfo.cs
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\ClinicalAttachment\ErrorManagement.ClinicalAttachment.Api\obj\Debug\net10.0\ErrorManagement.ClinicalAttachment.Api.csproj.CoreCompileInputs.cache
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\ClinicalAttachment\ErrorManagement.ClinicalAttachment.Api\obj\Debug\net10.0\ErrorMan.E7D68206.Up2Date
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\ClinicalAttachment\ErrorManagement.ClinicalAttachment.Api\obj\Debug\net10.0\ErrorManagement.ClinicalAttachment.Api.dll
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\ClinicalAttachment\ErrorManagement.ClinicalAttachment.Api\obj\Debug\net10.0\refint\ErrorManagement.ClinicalAttachment.Api.dll
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\ClinicalAttachment\ErrorManagement.ClinicalAttachment.Api\obj\Debug\net10.0\ErrorManagement.ClinicalAttachment.Api.pdb
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\ClinicalAttachment\ErrorManagement.ClinicalAttachment.Api\obj\Debug\net10.0\ref\ErrorManagement.ClinicalAttachment.Api.dll

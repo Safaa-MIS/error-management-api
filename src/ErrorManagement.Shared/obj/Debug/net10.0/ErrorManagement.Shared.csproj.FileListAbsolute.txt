@@ -1,0 +1,12 @@
+D:\errormanagmentfiles\ErrorManagementBackend\src\ErrorManagement.Shared\bin\Debug\net10.0\ErrorManagement.Shared.deps.json
+D:\errormanagmentfiles\ErrorManagementBackend\src\ErrorManagement.Shared\bin\Debug\net10.0\ErrorManagement.Shared.dll
+D:\errormanagmentfiles\ErrorManagementBackend\src\ErrorManagement.Shared\bin\Debug\net10.0\ErrorManagement.Shared.pdb
+D:\errormanagmentfiles\ErrorManagementBackend\src\ErrorManagement.Shared\obj\Debug\net10.0\ErrorManagement.Shared.csproj.AssemblyReference.cache
+D:\errormanagmentfiles\ErrorManagementBackend\src\ErrorManagement.Shared\obj\Debug\net10.0\ErrorManagement.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\errormanagmentfiles\ErrorManagementBackend\src\ErrorManagement.Shared\obj\Debug\net10.0\ErrorManagement.Shared.AssemblyInfoInputs.cache
+D:\errormanagmentfiles\ErrorManagementBackend\src\ErrorManagement.Shared\obj\Debug\net10.0\ErrorManagement.Shared.AssemblyInfo.cs
+D:\errormanagmentfiles\ErrorManagementBackend\src\ErrorManagement.Shared\obj\Debug\net10.0\ErrorManagement.Shared.csproj.CoreCompileInputs.cache
+D:\errormanagmentfiles\ErrorManagementBackend\src\ErrorManagement.Shared\obj\Debug\net10.0\ErrorManagement.Shared.dll
+D:\errormanagmentfiles\ErrorManagementBackend\src\ErrorManagement.Shared\obj\Debug\net10.0\refint\ErrorManagement.Shared.dll
+D:\errormanagmentfiles\ErrorManagementBackend\src\ErrorManagement.Shared\obj\Debug\net10.0\ErrorManagement.Shared.pdb
+D:\errormanagmentfiles\ErrorManagementBackend\src\ErrorManagement.Shared\obj\Debug\net10.0\ref\ErrorManagement.Shared.dll

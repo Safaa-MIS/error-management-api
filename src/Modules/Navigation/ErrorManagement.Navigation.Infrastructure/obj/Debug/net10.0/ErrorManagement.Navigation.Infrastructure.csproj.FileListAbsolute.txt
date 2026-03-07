@@ -1,0 +1,17 @@
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Navigation\ErrorManagement.Navigation.Infrastructure\bin\Debug\net10.0\ErrorManagement.Navigation.Infrastructure.deps.json
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Navigation\ErrorManagement.Navigation.Infrastructure\bin\Debug\net10.0\ErrorManagement.Navigation.Infrastructure.dll
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Navigation\ErrorManagement.Navigation.Infrastructure\bin\Debug\net10.0\ErrorManagement.Navigation.Infrastructure.pdb
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Navigation\ErrorManagement.Navigation.Infrastructure\bin\Debug\net10.0\ErrorManagement.Navigation.Application.dll
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Navigation\ErrorManagement.Navigation.Infrastructure\bin\Debug\net10.0\ErrorManagement.Shared.dll
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Navigation\ErrorManagement.Navigation.Infrastructure\bin\Debug\net10.0\ErrorManagement.Navigation.Application.pdb
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Navigation\ErrorManagement.Navigation.Infrastructure\bin\Debug\net10.0\ErrorManagement.Shared.pdb
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Navigation\ErrorManagement.Navigation.Infrastructure\obj\Debug\net10.0\ErrorManagement.Navigation.Infrastructure.csproj.AssemblyReference.cache
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Navigation\ErrorManagement.Navigation.Infrastructure\obj\Debug\net10.0\ErrorManagement.Navigation.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Navigation\ErrorManagement.Navigation.Infrastructure\obj\Debug\net10.0\ErrorManagement.Navigation.Infrastructure.AssemblyInfoInputs.cache
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Navigation\ErrorManagement.Navigation.Infrastructure\obj\Debug\net10.0\ErrorManagement.Navigation.Infrastructure.AssemblyInfo.cs
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Navigation\ErrorManagement.Navigation.Infrastructure\obj\Debug\net10.0\ErrorManagement.Navigation.Infrastructure.csproj.CoreCompileInputs.cache
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Navigation\ErrorManagement.Navigation.Infrastructure\obj\Debug\net10.0\ErrorMan.96FF22A6.Up2Date
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Navigation\ErrorManagement.Navigation.Infrastructure\obj\Debug\net10.0\ErrorManagement.Navigation.Infrastructure.dll
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Navigation\ErrorManagement.Navigation.Infrastructure\obj\Debug\net10.0\refint\ErrorManagement.Navigation.Infrastructure.dll
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Navigation\ErrorManagement.Navigation.Infrastructure\obj\Debug\net10.0\ErrorManagement.Navigation.Infrastructure.pdb
+D:\errormanagmentfiles\ErrorManagementBackend\src\Modules\Navigation\ErrorManagement.Navigation.Infrastructure\obj\Debug\net10.0\ref\ErrorManagement.Navigation.Infrastructure.dll

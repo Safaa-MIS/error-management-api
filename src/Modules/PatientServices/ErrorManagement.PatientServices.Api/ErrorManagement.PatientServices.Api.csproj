@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <FrameworkReference Include="Microsoft.AspNetCore.App" />
+    <ProjectReference Include="..\..\ClinicalAttachment\ErrorManagement.ClinicalAttachment.Application\ErrorManagement.ClinicalAttachment.Application.csproj" />
+    <ProjectReference Include="..\ErrorManagement.PatientServices.Application\ErrorManagement.PatientServices.Application.csproj" />
+    <ProjectReference Include="..\..\..\ErrorManagement.Shared\ErrorManagement.Shared.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
