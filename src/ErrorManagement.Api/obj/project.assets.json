@@ -1752,7 +1752,6 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
-          "ErrorManagement.ClinicalAttachment.Application": "1.0.0",
           "ErrorManagement.PatientServices.Application": "1.0.0",
           "ErrorManagement.Shared": "1.0.0"
         },

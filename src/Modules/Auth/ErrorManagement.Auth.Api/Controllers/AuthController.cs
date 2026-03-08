@@ -23,7 +23,6 @@ public sealed class AuthController : ControllerBase
     public async Task<IActionResult> Login([FromBody] LoginCommand command, CancellationToken ct)
     {
         var result = await _mediator.Send(command, ct);
-       // _cookies.SetTokens(Response, result.AccessToken, result.RefreshToken, result.ExpiresInSeconds);
         _cookies.SetTokens(Response, result.AccessToken,result.ExpiresInSeconds);
         return Ok(new
         {

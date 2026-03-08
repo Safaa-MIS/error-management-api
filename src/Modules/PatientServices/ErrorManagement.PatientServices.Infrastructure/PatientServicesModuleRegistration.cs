@@ -22,8 +22,7 @@ public static class PatientServicesModuleRegistration
                 configuration["ExternalApis:PatientServices:BaseUrl"]
                 ?? throw new InvalidOperationException(
                     "ExternalApis:PatientServices:BaseUrl is not configured."));
-            client.Timeout = TimeSpan.FromSeconds(30);
-        }).AddInternalApiResilience("clinical-attachment");
+        }).AddInternalApiResilience("patient-services");
 
 
         services.AddMediatR(cfg =>

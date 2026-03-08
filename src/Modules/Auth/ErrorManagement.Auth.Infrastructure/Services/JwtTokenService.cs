@@ -39,7 +39,4 @@ public sealed class JwtTokenService : IJwtTokenService
 
         return new JwtSecurityTokenHandler().WriteToken(token);
     }
-
-    //public string GenerateRefreshToken()
-    //    => Convert.ToBase64String(RandomNumberGenerator.GetBytes(64));
 }

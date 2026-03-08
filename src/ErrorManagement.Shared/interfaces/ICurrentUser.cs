@@ -1,7 +1,4 @@
-﻿using System.Collections.Generic;
-using System;
-
-namespace ErrorManagement.Shared.Interfaces;
+﻿namespace ErrorManagement.Shared.Interfaces;
 
 public interface ICurrentUser
 {

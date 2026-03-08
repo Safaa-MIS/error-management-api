@@ -2,19 +2,6 @@
   "version": 3,
   "targets": {
     "net10.0": {
-      "FluentValidation/12.1.1": {
-        "type": "package",
-        "compile": {
-          "lib/net8.0/FluentValidation.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net8.0/FluentValidation.dll": {
-            "related": ".xml"
-          }
-        }
-      },
       "MediatR/14.1.0": {
         "type": "package",
         "dependencies": {
@@ -314,21 +301,6 @@
           }
         }
       },
-      "ErrorManagement.ClinicalAttachment.Application/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v10.0",
-        "dependencies": {
-          "ErrorManagement.Shared": "1.0.0",
-          "FluentValidation": "12.1.1",
-          "MediatR": "14.1.0"
-        },
-        "compile": {
-          "bin/placeholder/ErrorManagement.ClinicalAttachment.Application.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ErrorManagement.ClinicalAttachment.Application.dll": {}
-        }
-      },
       "ErrorManagement.PatientServices.Application/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
@@ -360,21 +332,6 @@
     }
   },
   "libraries": {
-    "FluentValidation/12.1.1": {
-      "sha512": "EPpkIe1yh1a0OXyC100oOA8WMbZvqUu5plwhvYcb7oSELfyUZzfxV48BLhvs3kKo4NwG7MGLNgy1RJiYtT8Dpw==",
-      "type": "package",
-      "path": "fluentvalidation/12.1.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "README.md",
-        "fluent-validation-icon.png",
-        "fluentvalidation.12.1.1.nupkg.sha512",
-        "fluentvalidation.nuspec",
-        "lib/net8.0/FluentValidation.dll",
-        "lib/net8.0/FluentValidation.xml"
-      ]
-    },
     "MediatR/14.1.0": {
       "sha512": "pdxza1pLqAk+06LV3THzNJrw5K5Ah6EC17TEkoC90gsAxwtXDJAQrGuDSDinHGgxWKWEn5ebqTNN3k1bLJOb0g==",
       "type": "package",
@@ -820,11 +777,6 @@
         "polly.ratelimiting.nuspec"
       ]
     },
-    "ErrorManagement.ClinicalAttachment.Application/1.0.0": {
-      "type": "project",
-      "path": "../../ClinicalAttachment/ErrorManagement.ClinicalAttachment.Application/ErrorManagement.ClinicalAttachment.Application.csproj",
-      "msbuildProject": "../../ClinicalAttachment/ErrorManagement.ClinicalAttachment.Application/ErrorManagement.ClinicalAttachment.Application.csproj"
-    },
     "ErrorManagement.PatientServices.Application/1.0.0": {
       "type": "project",
       "path": "../ErrorManagement.PatientServices.Application/ErrorManagement.PatientServices.Application.csproj",
@@ -838,7 +790,6 @@
   },
   "projectFileDependencyGroups": {
     "net10.0": [
-      "ErrorManagement.ClinicalAttachment.Application >= 1.0.0",
       "ErrorManagement.PatientServices.Application >= 1.0.0",
       "ErrorManagement.Shared >= 1.0.0"
     ]
@@ -878,9 +829,6 @@
           "projectReferences": {
             "D:\\errormanagmentfiles\\ErrorManagementBackend\\src\\ErrorManagement.Shared\\ErrorManagement.Shared.csproj": {
               "projectPath": "D:\\errormanagmentfiles\\ErrorManagementBackend\\src\\ErrorManagement.Shared\\ErrorManagement.Shared.csproj"
-            },
-            "D:\\errormanagmentfiles\\ErrorManagementBackend\\src\\Modules\\ClinicalAttachment\\ErrorManagement.ClinicalAttachment.Application\\ErrorManagement.ClinicalAttachment.Application.csproj": {
-              "projectPath": "D:\\errormanagmentfiles\\ErrorManagementBackend\\src\\Modules\\ClinicalAttachment\\ErrorManagement.ClinicalAttachment.Application\\ErrorManagement.ClinicalAttachment.Application.csproj"
             },
             "D:\\errormanagmentfiles\\ErrorManagementBackend\\src\\Modules\\PatientServices\\ErrorManagement.PatientServices.Application\\ErrorManagement.PatientServices.Application.csproj": {
               "projectPath": "D:\\errormanagmentfiles\\ErrorManagementBackend\\src\\Modules\\PatientServices\\ErrorManagement.PatientServices.Application\\ErrorManagement.PatientServices.Application.csproj"

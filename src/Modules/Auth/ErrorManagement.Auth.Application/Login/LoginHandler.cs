@@ -36,7 +36,6 @@ public sealed class LoginHandler : IRequestHandler<LoginCommand, LoginResponse>
             DisplayName: user.DisplayName,
             Permissions: user.GetPermissions().ToList(),
             AccessToken: _jwt.GenerateAccessToken(user),
-         //   RefreshToken: _jwt.GenerateRefreshToken(),
             ExpiresInSeconds: _jwt.AccessTokenExpiresInSeconds);
     }
 }

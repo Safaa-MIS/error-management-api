@@ -3,12 +3,16 @@ using ErrorManagement.Api.Middleware;
 using ErrorManagement.Auth.Infrastructure;
 using ErrorManagement.Auth.Infrastructure.Seed;
 using ErrorManagement.Auth.Infrastructure.Services;
+using ErrorManagement.ClinicalAttachment.Application.Security;
 using ErrorManagement.ClinicalAttachment.Infrastructure;
+using ErrorManagement.Dashboard.Application.Security;
 using ErrorManagement.Dashboard.Infrastructure;
 using ErrorManagement.Navigation.Infrastructure;
+using ErrorManagement.PatientServices.Application.Security;
 using ErrorManagement.PatientServices.Infrastructure;
 using ErrorManagement.Shared.Interfaces;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi;
 using Serilog;
@@ -36,6 +40,12 @@ try
         ?? throw new InvalidOperationException("Jwt configuration section is missing.");
 
     jwtOpts.Validate();
+
+    var cookieAuthOpts = builder.Configuration
+    .GetSection(CookieAuthOptions.Section)
+    .Get<CookieAuthOptions>()
+    ?? new CookieAuthOptions();
+
     // CORS ──────────────────────────────────────────────────────────────────
     var allowedOrigins = builder.Configuration["AllowedOrigins"]
     ?.Split(',', StringSplitOptions.RemoveEmptyEntries | StringSplitOptions.TrimEntries)
@@ -73,14 +83,34 @@ try
             {
                 OnMessageReceived = ctx =>
                 {
-                    var cookie = ctx.Request.Cookies["em_at"];
+                    var cookie = ctx.Request.Cookies[cookieAuthOpts.AccessTokenName];
                     if (!string.IsNullOrEmpty(cookie)) ctx.Token = cookie;
                     return Task.CompletedTask;
                 }
             };
         });
 
-    builder.Services.AddAuthorization();
+   // builder.Services.AddAuthorization();
+
+
+    // Authorization — FallbackPolicy + one policy per permission ───────────
+    // The composition root (Program.cs) is the only place that knows all
+    // modules, so policy registration lives here — NOT in Shared.
+    builder.Services.AddAuthorization(options =>
+    {
+        // Any endpoint without [AllowAnonymous] requires authentication.
+        options.FallbackPolicy = new AuthorizationPolicyBuilder()
+            .RequireAuthenticatedUser()
+            .Build();
+
+        foreach (var permission in DashboardPermissions.All
+            .Concat(ClinicalAttachmentPermissions.All)
+            .Concat(PatientServicesPermissions.All))
+        {
+            options.AddPolicy(permission, policy =>
+                policy.RequireClaim("permission", permission));
+        }
+    });
 
     // Current user ──────────────────────────────────────────────────────────
     builder.Services.AddHttpContextAccessor();
@@ -124,7 +154,7 @@ try
         {
             Type = SecuritySchemeType.ApiKey,
             In = ParameterLocation.Cookie,
-            Name = "em_at"
+            Name = cookieAuthOpts.AccessTokenName
         });
     });
 
@@ -146,6 +176,11 @@ try
     {
         app.UseSwagger();
         app.UseSwaggerUI();
+    }
+    else
+    {
+        // HSTS: tell browsers to always use HTTPS for this domain
+        app.UseHsts();
     }
 
     app.UseHttpsRedirection();

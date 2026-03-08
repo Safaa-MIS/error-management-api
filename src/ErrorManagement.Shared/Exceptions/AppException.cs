@@ -1,5 +1,4 @@
-﻿using System;
-namespace ErrorManagement.Shared.Exceptions;
+﻿namespace ErrorManagement.Shared.Exceptions;
 
 public class AppException : Exception
 {
